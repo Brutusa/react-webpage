@@ -13,3 +13,6 @@ Then run
 ```
 docker run  -p 80:80 brutusa/docker-webpage-i
 ```
+
+Open in
+[localhost:80](localhost:80)
