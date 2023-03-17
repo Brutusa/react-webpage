@@ -8,13 +8,12 @@ From Command line run
 docker pull brutusa/docker-webpage-i
 ```
 
-Then run
+Then
 
 ```
 docker run  -p 80:80 brutusa/docker-webpage-i
 ```
 
-Open in
-
+Open at
 [localhost:80](http://localhost:80)
 
