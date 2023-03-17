@@ -11,5 +11,5 @@ docker pull brutusa/docker-webpage-i
 Then run
 
 ```
-docker run  -p 80:80 --name docker-webpage-i
+docker run  -p 80:80 brutusa/docker-webpage-i
 ```
