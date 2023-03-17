@@ -5,13 +5,13 @@
 
 From Command line run
 ```
-docker pull brutusa/docker-webpage-i
+docker pull brutusa/react-webpage-i
 ```
 
 Then
 
 ```
-docker run  -p 80:80 brutusa/docker-webpage-i
+docker run  -p 80:80 brutusa/react-webpage-i
 ```
 
 Open at
