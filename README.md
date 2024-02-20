@@ -1,5 +1,5 @@
-# react-webpage 
-**app by Andujar Brutus**
+# React + Docker Integration
+**app designed by Andujar Brutus to showcase React integration with Docker**
 
 ## Try it out with Docker!
 
